@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Test Source Code\\DOT_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\controllers\\provincescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:controllers\\provincescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\apimodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:apimodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\apimodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:apimodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\apimodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:apimodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\apimodel\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:apimodel\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\libraries\\ihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:libraries\\ihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\libraries\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:libraries\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Test Source Code\\DOT_Test\\Migrations\\20241216103203_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241216103203_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\dot_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:dot_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|e:\\test source code\\dot_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21248EB1-8C64-42D1-A08E-E613D87D69B9}|DOT_Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\ApiModel\\User.cs",
+              "RelativeDocumentMoniker": "ApiModel\\User.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\ApiModel\\User.cs",
+              "RelativeToolTip": "ApiModel\\User.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA7wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:14:37.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Token.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\ApiModel\\Token.cs",
+              "RelativeDocumentMoniker": "ApiModel\\Token.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\ApiModel\\Token.cs",
+              "RelativeToolTip": "ApiModel\\Token.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:13:42.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\ApiModel\\Login.cs",
+              "RelativeDocumentMoniker": "ApiModel\\Login.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\ApiModel\\Login.cs",
+              "RelativeToolTip": "ApiModel\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:08:51.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:06:51.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IHelper.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\Libraries\\IHelper.cs",
+              "RelativeDocumentMoniker": "Libraries\\IHelper.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\Libraries\\IHelper.cs",
+              "RelativeToolTip": "Libraries\\IHelper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:50:16.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\Libraries\\Helper.cs",
+              "RelativeDocumentMoniker": "Libraries\\Helper.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\Libraries\\Helper.cs",
+              "RelativeToolTip": "Libraries\\Helper.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwE4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:49:31.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAD4vysAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:46:39.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProvincesController.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\Controllers\\ProvincesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProvincesController.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\Controllers\\ProvincesController.cs",
+              "RelativeToolTip": "Controllers\\ProvincesController.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowLoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:17:04.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DOT_Test",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\DOT_Test.csproj",
+              "RelativeDocumentMoniker": "DOT_Test.csproj",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\DOT_Test.csproj",
+              "RelativeToolTip": "DOT_Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T11:03:43.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ApplicationUser.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\ApplicationUser.cs",
+              "RelativeToolTip": "ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:59:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADgvyYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:28:08.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T09:45:10.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAuwLkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:15:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\ApiModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ApiModel\\RegisterViewModel.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\ApiModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "ApiModel\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:32:48.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "ApplicationRole.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\ApplicationRole.cs",
+              "RelativeToolTip": "ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:58:28.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241216103203_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\Migrations\\20241216103203_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241216103203_InitialCreate.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\Migrations\\20241216103203_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241216103203_InitialCreate.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:32:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Test Source Code\\DOT_Test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Test Source Code\\DOT_Test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:47:32.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
