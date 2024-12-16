@@ -2,10 +2,10 @@
     Afiff Darmawan
     <br> Jawaban Test Online posisi .NET Developer DOT Indonesia
 </p>
-
+--------------------------------------------------------------------------------------------------------------------------
 Solutions are coded Visual Studio C# .NET Core API
 
-Database engine : Microsoft SQL Server Express (64-bit) 13.0.5026.0
+Database engine : Microsoft SQL Server Express (64-bit) 13.0.5026.0 <br>
 Database tools  : SQL Server Management Studio	20.2.30.0
 
 Hal yang harus dilakukan :
@@ -14,14 +14,14 @@ Hal yang harus dilakukan :
 3. Aplikasi bisa dijalankan lewat debugging 
 
 # Models 
-Digunakan untuk menyimpan struktur tabel di database
+Digunakan untuk menyimpan struktur tabel di database <br>
 [Province](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/Province.cs)
 [City](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/City.cs)
 [ApplicationRole](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/ApplicationRole.cs)
 [ApplicationUser](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/ApplicationUser.cs)
 
 # Api Models
-Digunakan untuk menyimpan struktur view
+Digunakan untuk menyimpan struktur view <br>
 [ApiCity](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/ApiModel/ApiCity.cs)
 [ApiProvince](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/ApiModel/ApiProvince.cs)
 [Login](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/ApiModel/Login.cs)
@@ -35,12 +35,12 @@ Digunakan untuk menyimpan struktur view
 [UsersController](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/Controllers/UsersController.cs)
 
 # Libraries
-Digunakan untuk menyimpan fungsi global
+Digunakan untuk menyimpan fungsi global <br>
 [Helper](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/Libraries/Helper.cs)
 [IHelper](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/Libraries/IHelper.cs)
 
 # Migrations
-Digunakan untuk menyimpan riwayat perubahan struktur tabel
+Digunakan untuk menyimpan riwayat perubahan struktur tabel <br>
 [20241216103203_InitialCreate.Designer](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/Migrations/20241216103203_InitialCreate.Designer.cs)
 [20241216103203_InitialCreate](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/Migrations/20241216103203_InitialCreate.cs)
 [20241216110510_Identity.Designer](https://github.com/afifdarmawan77/Test/blob/master/DOT_Test/Migrations/20241216110510_Identity.Designer.cs)
